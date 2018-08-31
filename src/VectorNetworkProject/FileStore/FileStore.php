@@ -8,6 +8,8 @@
 
 namespace VectorNetworkProject\FileStore;
 
+use pocketmine\plugin\PluginBase;
+
 
 class FileStore extends PluginBase
 {

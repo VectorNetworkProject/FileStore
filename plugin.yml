@@ -1,0 +1,5 @@
+name: FileStore
+author: VectorNetworkProject
+version: 1.0
+api: 4.0
+main: VectorNetworkProject\FileStore\FileStore
